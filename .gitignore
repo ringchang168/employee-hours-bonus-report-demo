@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+~$*
+node_modules/
+salary_previews/
+*.inspect.ndjson
